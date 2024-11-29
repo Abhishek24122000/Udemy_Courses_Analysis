@@ -1,4 +1,6 @@
 # Udemy Courses Analysis 
+![udemy](https://github.com/user-attachments/assets/b2a942a9-71b2-43bb-85f0-a96ed0fbada8)
+
 
 ## Introduction
 The "Udemy Courses Analysis" project delves into the diverse dataset encompassing Udemy courses from various subjects. Leveraging Python and essential data analysis libraries such as Pandas, the analysis aims to extract valuable insights into course offerings, pricing strategies, and subscriber engagement.
